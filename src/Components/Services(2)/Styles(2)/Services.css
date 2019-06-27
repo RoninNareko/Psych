@@ -1,0 +1,184 @@
+.banner2 img{
+  max-width: 500px;
+}
+.Container4{
+  position: relative;
+  overflow: hidden;
+  margin-top: 1000px;
+  background: #fff;
+  height: 700px;
+}
+.LINOS1{
+  max-height: 50px;
+}
+.Content{
+   box-sizing: content-box;
+  position: absolute;
+
+  background: #fff;
+  width: 1000px;
+  margin-left: 400px;
+
+  
+  height: 500px;
+}
+.topcontents{
+  
+  position: relative;
+  align-items: center;
+  top: 0px;
+  background: #fff;
+  height: 400px;
+}
+.topcontents h4{
+  font-size: 36px;
+}
+.heading_section{
+  position: relative;
+  display: block;
+  text-align: center;
+  width: 300px;
+
+  left: 130px;
+}
+.sub-heading-1jan{
+  position: absolute;
+  left: 20px;
+}
+.topimg{
+  position: absolute;
+  display: block;
+  top: 50px;
+  margin-left: 400px;
+
+}
+.topimg img{
+  width: 65%;
+}
+ul.nav-pills{
+  position: absolute;
+
+  top: 380px;
+  visibility: inherit;
+  opacity: 1;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.nav-pills li{
+margin: 0;
+padding-left: 30px;
+float: left;
+display: block;
+}
+.nav-pills li a{
+  text-decoration: none;
+  color: #333;
+}
+.conts2{
+  position: relative;
+  margin: 0;
+  max-height: 500px;
+
+}
+/* .scrolleds{
+  position: relative;
+  height: 500px;
+  max-width: 5px;
+  background: red;
+
+  left:400px; 
+}
+.Xdiv{
+  position: relative;
+  height: 30px;
+  max-width: 5px;
+  background: chocolate;
+} */
+.conts3{
+  position: relative;
+  background: #00003E;
+  margin:0;
+  max-height: 500px;
+}
+.conts3 img{
+  min-width: 100%;
+}
+.quote-left{
+  margin-top: 300px;
+  font-size: 24px;
+    width: 280px;
+  float: left;
+color: #fff;
+}
+.quote-right{
+  margin-top: 200px;
+  font-size: 24px;
+    width: 280px;
+  float: right;
+  color: #fff;
+}
+
+.nark2{
+  background: #00003E;
+
+}
+.content2{
+  background: #00003E;
+}
+.block7{
+  margin: 0;
+}
+.conts9{
+  margin: 0;
+  background: #fff;
+  max-height: 2000px;
+}
+.block9cont{
+  background: none;
+  min-height: 800px;
+}
+.block9cont9{
+  margin: 0;
+  width: 100%
+}
+.hndblock{
+  position: absolute;
+  float: left;
+  left: 1000px;
+}
+.hndblock img{
+  max-width: 50%;
+  height: auto;
+}
+.hndblock2 img{
+  max-width: 50%;
+  height: auto;
+}
+.hire-content{
+  position: absolute;
+  top: 0;
+  margin-top: 150px;
+}
+.htect2{
+  margin-left: 300px;
+}
+.containerhndik {
+  position: relative;
+  text-align: center;
+  max-width: 1140px;
+  left: 200px;
+  top: 250px;
+}
+.containerhndik .hire_us_heading_section{
+position: relative;
+left: 100px;
+}
+
+.hndblock2{
+  position: absolute;
+top: 400px;
+
+  
+  left: 0px;
+
+ background: none;
+}
